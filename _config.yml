@@ -25,9 +25,9 @@ twitter: jwolfe820
 tel: (646) 379-1272
 tel_full: tel:(646) 379-1272
 address: 11 Saint Felix St. 
-postcode: 11217
-city: Brooklyn
-country: New York
+postcode: Brooklyn, New York
+city: 11217
+# country: 11217
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
